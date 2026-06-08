@@ -1,4 +1,4 @@
-# Kidney Stone Detection Using Convolutional Neural Networks (CNN)
+# KidneyStoneDetect 
 
 This project implements a Deep Learning model utilizing a Convolutional Neural Network (CNN) to evaluate CT scan images and predict the probability of a kidney stone being present.
 
