@@ -1,11 +1,12 @@
 # Kidney Stone Detection Using Convolutional Neural Networks (CNN)
 
-This project implements a Deep Learning model utilizing a Convolutional Neural Network (CNN) to automatically detect kidney stones from CT scan images. The model classifies scans into two categories: **Kidney Stone** and **Normal**.
+This project implements a Deep Learning model utilizing a Convolutional Neural Network (CNN) to evaluate CT scan images and predict the probability of a kidney stone being present.
 
 ---
 
 ## 📌 Project Overview
-Kidney stones (nephrolithiasis) are a common and painful urinary tract disorder. Early detection using medical imaging is crucial for timely diagnosis and treatment. This project employs computer vision techniques to preprocess CT scan images and trains a binary classification CNN model to achieve high diagnostic accuracy.
+Kidney stones (nephrolithiasis) are a common and painful urinary tract disorder. Early detection using medical imaging is crucial for timely diagnosis and treatment. This project employs computer vision techniques to analyze CT scan images and outputs a probability score indicating whether a kidney stone is likely present or not.
+
 
 ---
 
